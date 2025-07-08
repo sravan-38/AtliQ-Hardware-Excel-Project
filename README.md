@@ -24,24 +24,25 @@ This project presents a market and customer analysis for AtliQ Hardwares using E
 
 ## 📷 Screenshots
 
-### 🔍 Market Performance vs Target
-![Market Performance vs Target](MarketPerformancevsTarget.png)
+### 1️⃣ Market Performance vs Target  
+![Market Performance vs Target](Market%20Performance%20vs%20Target.png)
 
-### 👥 Customer Net Sales Performance
-![Customer Net Sales](CustomerNetSalesPerformance.png)
+### 2️⃣ Customer Net Sales Performance  
+![Customer Net Sales Performance](Customer%20Net%20Sales%20Performance.png)
 
-### 📆 2019 P&L by Fiscal Months
-![2019 P&L](2019P&L.png)
+### 3️⃣ 2019 P&L by Fiscal Months  
+![2019 P&L by Fiscal Months](2019%20P%20%26%20L%20by%20Fiscal%20Months.png)
 
-### 📆 2020 P&L by Fiscal Months
-![2020 P&L](2020P&L.png)
+### 4️⃣ 2020 P&L by Fiscal Months  
+![2020 P&L by Fiscal Months](2020%20P%20%26%20L%20by%20Fiscal%20Months.png)
 
-### 📆 2021 P&L by Fiscal Months
-![2021 P&L](2021P&L.png)
+### 5️⃣ 2021 P&L by Fiscal Months  
+![2021 P&L by Fiscal Months](2021%20P%20%26%20L%20by%20Fiscal%20Months.png)
 
-### 📈 P&L by Fiscal Year Comparison
-![Fiscal Year Comparison](FiscalYearComparison.png)
+### 6️⃣ P&L by Fiscal Year  
+![P&L by Fiscal Year](P%20%26%20L%20By%20Fiscal%20Year.png)
 
-### 🌍 P&L for Markets
-![Market P&L](MarketP&L.png)
+### 7️⃣ P&L for Market  
+![P&L for Market](P%20%26%20L%20for%20Market.png)
+
 
