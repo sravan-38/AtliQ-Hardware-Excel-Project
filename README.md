@@ -24,8 +24,8 @@ This project presents a market and customer analysis for AtliQ Hardwares using E
 
 ## 📷 Screenshots
 
-### 1️⃣ Market Performance vs Target  
-![Market Performance vs Target](Market%20Performance%20vs%20Target.png)
+### 1️⃣ Market Performance vs target  
+![Market Performance vs target](Market%20Performance%20vs%20target.png)
 
 ### 2️⃣ Customer Net Sales Performance  
 ![Customer Net Sales Performance](Customer%20Net%20Sales%20Performance.png)
