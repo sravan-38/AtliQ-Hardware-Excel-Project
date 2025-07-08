@@ -22,25 +22,26 @@ This project presents a market and customer analysis for AtliQ Hardwares using E
 - Pivot Tables
 - Conditional Formatting
 
-📷 Screenshots
+## 📷 Screenshots
 
-## 🔍 Market Performance vs Target
+### 🔍 Market Performance vs Target
 ![Market Performance vs Target](Market_Performance_vs_Target.png)
 
-## 👥 Customer Net Sales Performance
+### 👥 Customer Net Sales Performance
 ![Customer Net Sales](Customer_Net_Sales_Performance.png)
 
-## 📆 2019 P&L by Fiscal Months
+### 📆 2019 P&L by Fiscal Months
 ![2019 P&L](2019_PnL.png)
 
-## 📆 2020 P&L by Fiscal Months
+### 📆 2020 P&L by Fiscal Months
 ![2020 P&L](2020_PnL.png)
 
-## 📆 2021 P&L by Fiscal Months
+### 📆 2021 P&L by Fiscal Months
 ![2021 P&L](2021_PnL.png)
 
-## 📈 P&L by Fiscal Year Comparison
+### 📈 P&L by Fiscal Year Comparison
 ![Fiscal Year Comparison](Fiscal_Year_Comparison.png)
 
-## 🌍 P&L for Markets
+### 🌍 P&L for Markets
 ![Market P&L](Market_PnL.png)
+
